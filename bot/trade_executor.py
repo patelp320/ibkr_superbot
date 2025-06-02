@@ -1,6 +1,6 @@
 from ib_insync import IB, MarketOrder, Stock
-from bot.scoring_engine import score_ticker
-from bot.config import IB_HOST, IB_PORT
+from scoring_engine import score_ticker
+from config import IB_HOST, IB_PORT
 from bot.emailer import send_email
 from pathlib import Path
 import time

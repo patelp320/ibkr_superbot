@@ -1,6 +1,6 @@
 from ib_insync import IB, Stock
 from pathlib import Path
-from bot.config import IB_HOST, IB_PORT
+from config import IB_HOST, IB_PORT
 from bot.emailer import send_email
 
 def sell_open_positions():
@@ -30,3 +30,11 @@ def sell_open_positions():
 
 if __name__ == "__main__":
     sell_open_positions()
+
+
+from ibkr_client import connect_ibkr, sell_stock, disconnect_ibkr
+
+def run():
+    connect_ibkr()
+    sell_stock('AAPL', 10)
+    disconnect_ibkr()

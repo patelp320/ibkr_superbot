@@ -1,0 +1,29 @@
+[2025-06-02 13:10:23] ✅ Running IBKR Superbot Cycle\n[2025-06-02 13:10:23] [PENNY] Starting penny stock scan...\n[2025-06-02 13:10:23] ❌ ERROR in strategy loop:\nTraceback (most recent call last):
+  File "/app/bot/core.py", line 23, in <module>
+    run_penny_scanner()
+  File "/app/bot/penny_scanner.py", line 39, in main
+    run_scan()  # Replace 'run_scan' with correct function name if needed
+    ^^^^^^^^
+NameError: name 'run_scan' is not defined
+\n[2025-06-02 13:10:23] 🕒 Sleeping for 10 minutes...\n\n[2025-06-02 13:14:50] ✅ Running IBKR Superbot Cycle\n[2025-06-02 13:14:50] [PENNY] Starting penny stock scan...\n[2025-06-02 13:14:50] ❌ ERROR in strategy loop:\nTraceback (most recent call last):
+  File "/app/bot/core.py", line 23, in <module>
+    run_penny_scanner()
+  File "/app/bot/penny_scanner.py", line 39, in main
+    run_scan()  # Replace 'run_scan' with correct function name if needed
+    ^^^^^^^^
+NameError: name 'run_scan' is not defined
+\n[2025-06-02 13:14:50] 🕒 Sleeping for 10 minutes...\n\n[2025-06-02 13:17:46] ✅ Running IBKR Superbot Cycle\n[2025-06-02 13:17:46] [PENNY] Starting penny stock scan...\n[2025-06-02 13:17:46] ❌ ERROR in strategy loop:\nTraceback (most recent call last):
+  File "/app/bot/core.py", line 23, in <module>
+    run_penny_scanner()
+  File "/app/bot/penny_scanner.py", line 39, in main
+    run_scan()  # Replace 'run_scan' with correct function name if needed
+    ^^^^^^^^
+NameError: name 'run_scan' is not defined
+\n[2025-06-02 13:17:46] 🕒 Sleeping for 10 minutes...\n\n[2025-06-02 13:20:07] ✅ Running IBKR Superbot Cycle\n[2025-06-02 13:20:07] [PENNY] Starting penny stock scan...\n[2025-06-02 13:20:07] ❌ ERROR in strategy loop:\nTraceback (most recent call last):
+  File "/app/bot/core.py", line 23, in <module>
+    run_penny_scanner()
+  File "/app/bot/penny_scanner.py", line 39, in main
+    run()
+    ^^^
+NameError: name 'run' is not defined
+\n[2025-06-02 13:20:07] 🕒 Sleeping for 10 minutes...\n\n

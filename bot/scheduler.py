@@ -10,7 +10,7 @@ from bot.market_gap_tracker import detect_gaps
 from bot.sector_strength import analyze_sector
 
 def run_scans():
-    print(f"✅ Running scans from scheduler... ({datetime.now()})")
+    print(f"✅ Running scans from bot.scheduler... ({datetime.now()})")
     aggregate()
     expand_watchlist()
     analyze_news()
@@ -44,8 +44,8 @@ while True:
     time.sleep(30)
 
 # New Scheduled Jobs
-import bot.penny_ranker as penny_ranker
-import bot.trade_logger as trade_logger
+import penny_ranker as penny_ranker
+import trade_logger as trade_logger
 
 def run_additional_jobs():
     print("📊 Running penny ranker...")

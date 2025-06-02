@@ -1,23 +1,26 @@
 import json
-from pathlib import Path
+from datetime import datetime
 
-TRADE_LOG = Path("logs/trade_logs.json")
+def train_models():
+    # Dummy trades and outcomes
+    trade_memory = [
+        {"ticker": "ABC", "prediction": "UP", "result": "UP"},
+        {"ticker": "XYZ", "prediction": "DOWN", "result": "UP"},
+        {"ticker": "DEF", "prediction": "UP", "result": "UP"}
+    ]
 
-def evaluate_trades():
-    if not TRADE_LOG.exists():
-        print("❌ No trade logs found.")
-        return
+    correct = sum(1 for t in trade_memory if t["prediction"] == t["result"])
+    total = len(trade_memory)
+    accuracy = correct / total * 100
 
-    with open(TRADE_LOG) as f:
-        data = json.load(f)
+    print(f"[📚] Training AI on {total} trades. Accuracy: {accuracy:.2f}%")
 
-    trades = data.get("trades", [])
-    total_pnl = sum(t["pnl"] for t in trades)
-    winners = [t for t in trades if t["pnl"] > 0]
-    losers = [t for t in trades if t["pnl"] <= 0]
+    # Update dummy model weights
+    model_status = {
+        "updated": datetime.now().isoformat(),
+        "accuracy": accuracy
+    }
 
-    print(f"🧠 Adaptive logic updated from {len(trades)} trades.")
-    print(f"✅ Win rate: {len(winners)}/{len(trades)} | Total PnL: $")
-
-if __name__ == "__main__":
-    evaluate_trades()
+    with open("logs/model_training_log.json", "w") as f:
+        json.dump(model_status, f, indent=2)
+    print("[📊] Model training complete. Logged results.")

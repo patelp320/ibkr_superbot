@@ -41,3 +41,7 @@ def run():
 
 if __name__ == "__main__":
     run()
+
+
+def main():
+    print('[PREDICTOR] Running predictor main() stub')

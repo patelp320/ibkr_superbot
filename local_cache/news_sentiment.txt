@@ -1,0 +1,113 @@
+ News | Sentiment: 0.0
+ Life | Sentiment: 0.0
+ Entertainment | Sentiment: 0.0
+  Finance | Sentiment: 0.0
+ Sports | Sentiment: 0.0
+ New on Yahoo | Sentiment: 0.136
+Stocks close higher as trade tensions ramp back up | Sentiment: 0.125
+Why Google could fall 25% in 'black swan event' of Chrome divestiture | Sentiment: -0.167
+China, EU tensions escalate as US pushes countries for deals | Sentiment: 0.0
+Disney to lay off hundreds of employees globally | Sentiment: 0.0
+Temu's US users fell by 58% after Trump ended 'de minimis' loophole | Sentiment: 0.0
+Opinion: Blaming Trump for price hikes is good business strategy | Sentiment: 0.7
+Coinbase breach linked to customer data leak in India: Soruces | Sentiment: 0.0
+Musk's Neuralink raises $650M in latest funding round | Sentiment: 0.15
+Trump waits on a call with Xi as China tensions escalate | Sentiment: 0.0
+Latest | Sentiment: 0.5
+Mattel is combining film and television units to create Mattel Studios | Sentiment: 0.0
+Campbell's Co. says sales rise as more Americans cook meals at home | Sentiment: 0.5
+What To Expect From Friday's Jobs Report | Sentiment: 0.0
+Oil Advances as OPEC+ Supply Boost Vies With Geopolitical Risk | Sentiment: 0.0
+The Magnificent Seven Stocks Staged a Blistering May Rally. What's Next? | Sentiment: 0.5
+BNSF stands up shortline rail team | Sentiment: 0.0
+GM, Ford Stocks Among Biggest S&P 500 Decliners on Trump's Steel Tariff Comments | Sentiment: 0.0
+Salesforce buys Moonhub, a startup building AI tools for hiring | Sentiment: 0.0
+Earn 150k points and a $500 statement credit with this Amex Business Platinum limited-time offer | Sentiment: 0.0
+Do you need to be a business owner to qualify for the limited-time Amex Business Platinum offer? | Sentiment: 0.0
+Limited-time offer: Earn up to 5 free nights when you open a new IHG One Rewards credit card | Sentiment: 0.179
+Peter Thiel warns of ‘catastrophe’ in US real estate — but sees ‘windfall’ for 1 class of boomers. | Sentiment: 0.2
+How sports betting taxes work and what you might owe | Sentiment: 0.0
+The best CD rates on the market right now: Lock in up to 4.4% APY for the rest of the year | Sentiment: 0.643
+The best 0% APR credit cards for 2025: Avoid paying interest for up to 21 months | Sentiment: 1.0
+Disney laying off hundreds of global workers: What to know | Sentiment: 0.0
+How to save for a vacation | Sentiment: 0.0
+Tesla facing new challenge as its EV sales decline in Europe | Sentiment: 0.136
+Tempus AI rebound, Meta's AI ad push, Broadcom earnings optimism | Sentiment: 0.0
+Emergency fund 101: Steps and strategies to build up your savings | Sentiment: 0.0
+Analyst Strong Buy Stocks   | Sentiment: 0.433
+Top Daily Gainers   | Sentiment: 0.25
+Top Daily Losers   | Sentiment: 0.1
+Morningstar 5-Star Stocks   | Sentiment: 0.0
+Most Active Stocks   | Sentiment: 0.183
+Top ETFs   | Sentiment: 0.5
+Undervalued Growth Stocks   | Sentiment: 0.0
+Fundamental Trade Ideas   | Sentiment: 0.0
+Technical Trade Ideas   | Sentiment: 0.0
+ StockStory Top Picks  | Sentiment: 0.5
+How sports betting taxes work and what you might owe | Sentiment: 0.0
+Smart Money Moves | Sentiment: 0.214
+Vacation savings accounts: Are they worth it for families? | Sentiment: 0.3
+The 10 best national and super regional banks | Sentiment: 0.667
+What it means to be house poor and how to avoid it | Sentiment: -0.4
+10 clever ways to save money that really work | Sentiment: 0.183
+When will I get my Social Security check?  | Sentiment: 0.033
+More Ways to Save | Sentiment: 0.5
+The best balance transfer credit cards for 2025 | Sentiment: 1.0
+How to qualify for the limited-time Amex Business Platinum offer | Sentiment: 0.0
+Earn up to 5 free nights with an IHG One Rewards credit card | Sentiment: 0.4
+What do the different credit score ranges mean? | Sentiment: -0.156
+How student loan forgiveness works under Trump | Sentiment: 0.0
+US imports hit lowest levels since the Great Recession | Sentiment: 0.8
+Manufacturing activity contracted in May as imports hit lowest level since 2009 | Sentiment: 0.0
+Trump's trade agenda on hold as he waits on a call with Xi Jinping | Sentiment: 0.0
+What Trump tariff revenues mean for the US deficit | Sentiment: -0.312
+Earn 150k points and a $500 statement credit with this Amex Business Platinum limited-time offer | Sentiment: 0.0
+Do you need to be a business owner to qualify for the limited-time Amex Business Platinum offer? | Sentiment: 0.0
+Limited-time offer: Earn up to 5 free nights when you open a new IHG One Rewards credit card | Sentiment: 0.179
+Peter Thiel warns of ‘catastrophe’ in US real estate — but sees ‘windfall’ for 1 class of boomers. | Sentiment: 0.2
+Stock market today: S&P 500, Nasdaq turn higher as US-China trade tensions flare up | Sentiment: 0.25
+How sports betting taxes work and what you might owe | Sentiment: 0.0
+Commentary: Why businesses want to blame Trump for price hikes | Sentiment: 0.0
+Disney to lay off several hundred employees globally | Sentiment: 0.0
+The best CD rates on the market right now: Lock in up to 4.4% APY for the rest of the year | Sentiment: 0.643
+The best 0% APR credit cards for 2025: Avoid paying interest for up to 21 months | Sentiment: 1.0
+Spot pet insurance review 2025 | Sentiment: 0.0
+Mortgage and refinance interest rates today for June 2, 2025: Slightly higher for the 30-year; unchanged on the 15-year term | Sentiment: 0.25
+What happens to credit card debt when you die? | Sentiment: 0.0
+21 savings accounts with interest rates of 4% APY and higher (updated weekly) | Sentiment: 0.25
+Trump tariffs live updates: China, EU tensions escalate as US pushes countries for deals | Sentiment: 0.136
+Best mortgage lenders for bad credit this month | Sentiment: 0.15
+A rate cut debate is heating up inside the Fed | Sentiment: 0.0
+16 best new bank account promotions and bonuses for June 2025: Earn up to $3,000 | Sentiment: 0.568
+President Trump's trade agenda is on hold as he waits on a call with Xi Jinping | Sentiment: 0.0
+10 best high-yield money market accounts for June 2025: Rates up to 4.4% APY | Sentiment: 1.0
+How much money should you keep in a high-yield savings account? | Sentiment: 0.2
+Alphabet stock could fall as much as 25% in 'black swan event' if judge orders Google Chrome divestiture | Sentiment: 0.017
+Rivian’s R2 will 'underpin' all future Volkswagen EVs, exec says | Sentiment: 0.0
+10 best high-yield savings accounts for June 2025: Earn up to 4.30% APY | Sentiment: 1.0
+The best balance transfer credit cards for 2025: Don't pay any interest until 2026 | Sentiment: 1.0
+Subway-owner Roark Capital buys Dave's Hot Chicken for $1 billion with rapid expansion plans underway | Sentiment: -0.175
+Best money market account rates today, June 2, 2025 (Earn up to 4.41% APY) | Sentiment: 1.0
+Manufacturing activity contracted in May as imports hit lowest level since 2009 | Sentiment: 0.0
+Tesla stock slips as sales in key European markets crater | Sentiment: 0.0
+Why a 'decade of reckoning' is coming to the bond market | Sentiment: 0.0
+Best money market account rates today, June 1, 2025 (best account provides 4.41% APY) | Sentiment: 1.0
+Gold price today, Monday, June 2, 2025: Gold ticks up as trade tensions rise | Sentiment: 0.0
+Nvidia rival Groq makes a bold prediction on what's next for AI | Sentiment: 0.167
+Vacation savings accounts: Are they worth it for families? | Sentiment: 0.3
+Why Walmart stock is a still a 'port in the storm' in the Trump economy | Sentiment: 0.0
+What happens when your bank is merged or acquired? | Sentiment: 0.0
+The Lone Star State — and Trump — versus BlackRock | Sentiment: 0.0
+Investors eye May jobs report and Trump tariff updates: What to know this week | Sentiment: 0.0
+Best CD rates today, June 2, 2025 (Lock in up to 4.25% APY) | Sentiment: 1.0
+Best high-yield savings interest rates today, June 2, 2025 (Earn up to 4.3% APY) | Sentiment: 1.0
+HELOC rates today, June 2, 2025: Interest rates on home equity lines of credit nudge higher as consumer demand grows | Sentiment: 0.25
+'This is a roller coaster ride': How Trump's tariffs turned the 'TACO' trade into Wall Street's biggest debate | Sentiment: 0.0
+A 529 account can make saving for your child's future go farther | Sentiment: 0.0
+Commentary: Identifying winning stocks is hard. Holding winning stocks is a nightmare. | Sentiment: 0.236
+Why new cannabis companies face high barriers to entry | Sentiment: 0.148
+E.l.f. Beauty remains committed to manufacturing in China despite tariffs | Sentiment: 0.0
+Why Scott Bessent wants to make it easier for banks to own Treasurys | Sentiment: 0.4
+Buying the stock market dip hasn't paid off this much in 30 years | Sentiment: 0.2
+What Wall Street might be missing on Nvidia | Sentiment: -0.2
+This week in Trumponomics: Too bad TACO isn’t true | Sentiment: -0.175

@@ -1,6 +1,6 @@
 from ib_insync import IB, Option, util
 from datetime import date, timedelta
-from bot.config import IB_HOST, IB_PORT
+from config import IB_HOST, IB_PORT
 from bot.emailer import send_email
 
 def get_targets():
@@ -33,3 +33,11 @@ def run():
 
 if __name__ == "__main__":
     run()
+
+
+from ibkr_client import connect_ibkr, place_option_trade, disconnect_ibkr
+
+def run():
+    connect_ibkr()
+    place_option_trade('AAPL', 150, '20250719', 'P', 1)
+    disconnect_ibkr()

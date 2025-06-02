@@ -1,6 +1,6 @@
 from ib_insync import IB, Option, util
 from datetime import date, timedelta
-from bot.config import IB_HOST, IB_PORT
+from config import IB_HOST, IB_PORT
 from bot.emailer import send_email
 
 def get_open_positions():
